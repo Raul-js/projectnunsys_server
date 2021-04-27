@@ -32,9 +32,9 @@ spring:
       indent-output: true
   datasource:
     type: com.zaxxer.hikari.HikariDataSource
-    url: jdbc:postgresql://localhost:5432/projectnunsys
-    username: projectnunsys
-    password:
+    url: jdbc:postgresql://localhost:5432/nunsysprojectone
+    username: postgres
+    password: cocacola
     hikari:
       poolName: Hikari
       auto-commit: false

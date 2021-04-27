@@ -41,6 +41,8 @@
     "clientTheme": "none",
     "clientThemeVariant": "",
     "withAdminUi": true,
-    "languages": ["en", "fr"]
+    "languages": ["en", "fr"],
+    "entities": ["Producto", "TipoProducto", "Carrito", "Usuario", "Factura", "Compra"],
+    "lastLiquibaseTimestamp": 1619539096000
   }
 }
